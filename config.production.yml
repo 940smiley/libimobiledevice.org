@@ -92,3 +92,4 @@ paths:
 pagination:
   max: 3
   path: page
+

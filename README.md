@@ -27,12 +27,14 @@ Brief technology outline:
 ## Getting Started
 
 Clone the actual project repository:
+
 ```shell
 git clone https://github.com/libimobiledevice/libimobiledevice.org.git
 cd libimobiledevice.org
 ```
 
 Build the development version:
+
 ```shell
 make development
 ```
@@ -41,6 +43,7 @@ This should install the dependencies and finally build the website into a
 `public/` directory. Use your favourite browser to open `public/index.html`.
 
 Live-rebuild run of development version:
+
 ```shell
 make watch
 ```
@@ -63,6 +66,7 @@ If you plan to contribute larger changes or a major refactoring, please create a
 ticket first to discuss the idea upfront to ensure less effort for everyone.
 
 Please make sure your contribution adheres to:
+
 * Try to follow the code style of the project
 * Commit messages should describe the change well without being to short
 * Try to split larger changes into individual commits of a common domain
@@ -72,11 +76,11 @@ We are still working on the guidelines so bear with us!
 
 ## Links
 
-* Homepage: https://libimobiledevice.org/
-* Repository: https://github.com/libimobiledevice/libimobiledevice.org.git
-* Issue Tracker: https://github.com/libimobiledevice/libimobiledevice.org/issues
-* Mailing List: https://lists.libimobiledevice.org/mailman/listinfo/libimobiledevice-devel
-* Twitter: https://twitter.com/libimobiledev
+* Homepage: <https://libimobiledevice.org/>
+* Repository: <https://github.com/libimobiledevice/libimobiledevice.org.git>
+* Issue Tracker: <https://github.com/libimobiledevice/libimobiledevice.org/issues>
+* Mailing List: <https://lists.libimobiledevice.org/mailman/listinfo/libimobiledevice-devel>
+* Twitter: <https://twitter.com/libimobiledev>
 
 ## License
 

@@ -12,5 +12,5 @@ Open a command-line terminal on your machine.
 Enter the commands provided below.
 
 ```shell-session
-$ brew install libimobiledevice
+brew install libimobiledevice
 ```

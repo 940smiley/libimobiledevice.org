@@ -15,7 +15,7 @@ menu:
 
 1.3 You agree that your use of the Service is not contingent on the delivery of any future functionality or features or dependent on any oral or written public comments made by libimobiledevice or any third party regarding future functionality or features.
 
-2. Your Account and Use of the Service
+1. Your Account and Use of the Service
 
 2.1 You must provide accurate and complete registration information any time you register to use the Service. You are responsible for the security of your passwords and for any use of your account. If you become aware of any unauthorized use of your password or of your account, you agree to notify libimobiledevice immediately via our company contact form. You can also reset your password by logging into your account for the Service.
 
@@ -29,7 +29,7 @@ menu:
 
 2.6 Vulnerability Reporting Service. When you use this service, libimobiledevice’s service will scan the images that you specify, which may be based upon code you authored, or code of others, and may generate vulnerability reports or information. You understand that any reports or other information that you receive from libimobiledevice about possible vulnerabilities are not guaranteed to be comprehensive, and there can be no assurance that every fault or vulnerability is discovered in a particular image. You agree that libimobiledevice’s service should not be used as the basis to deploy systems that must be hardened or highly secure, or involve mission-critical business operations, the operation of nuclear facilities, aircraft navigation, important communication systems, medical devices, air traffic control devices, real time control systems or other situations in which an inaccuracy or error in a report or in the service could lead to death, personal injury, or physical property or environmental damage.
 
-3. Privacy and Restrictions on Use
+1. Privacy and Restrictions on Use
 
 3.1 libimobiledevice’s Privacy Policy describes libimobiledevice’s collection, use, storage and disclosure of your personal information, and is hereby incorporated by this reference into these Terms. You agree to the use of your data in accordance with libimobiledevice’s Privacy Policy.
 
@@ -73,7 +73,7 @@ q. Create user accounts by automated means or under false or fraudulent pretense
 
 r. Use the Service, or any interfaces provided with the Service, to access any libimobiledevice product or service in a manner that violates the Terms or other terms and conditions for use of such libimobiledevice product or service.
 
-4. Usernames
+1. Usernames
 
 4.1 We reserve the right to reclaim usernames on behalf of businesses or individuals that hold legal claim or trademark to those usernames. Accounts using business names and/or logos that may be considered misleading to others may be permanently suspended. We also reserve the right to reclaim usernames using libimobiledevice trademarks or usernames that violate the libimobiledevice Trademark Guidelines (the “Trademark Guidelines”), which are hereby incorporated into these Terms by reference.
 
@@ -89,13 +89,13 @@ c. Creating accounts for the purpose of selling those accounts
 
 4.4 Selling Usernames. You may not and may not allow any third party to buy or sell usernames.
 
-5. Fees
+1. Fees
 
 5.1 Subject to the Terms, the Service is provided to you without charge up to certain limits. Usage over this limit may require you to purchase additional resources or services. The pricing for additional resources and services can be found on this website.
 
 5.2 For all purchased resources and services, including with limitation any purchased Applications (as defined in Section 9), libimobiledevice will charge your credit card on a monthly basis or at the interval indicated in libimobiledevice fees and payment policies, if different. libimobiledevice may change its fees and payment policies by notifying you at least fifteen (15) days before the beginning of the billing cycle in which such change will take effect. Late payments will bear interest at the rate of 1.5% per month (or the highest rate permitted by law, if less). All fees are non-refundable (except as expressly set forth in Section 11.3) and exclusive of applicable taxes. You are responsible for paying all taxes and government charges, and all reasonable expenses and attorneys fees libimobiledevice incurs collecting late amounts. You acknowledge and agree that any credit card and related billing and payment information that you provide to libimobiledevice may be shared by libimobiledevice with companies who work on libimobiledevice's behalf, such as payment processors and/or credit agencies, solely for the purposes of checking credit, effecting payment to libimobiledevice and servicing your account. libimobiledevice may also provide information in response to valid legal process, such as subpoenas, search warrants and court orders, or to establish or exercise its legal rights or defend against legal claims. libimobiledevice shall not be liable for any use or disclosure of such information by such third parties. libimobiledevice reserves the right to disable your access to the Service for any late payments. Any outstanding balance becomes immediately due and payable upon termination of the Terms for any reason.
 
-6. User Content
+1. User Content
 
 6.1 The Service allows you and other users to submit, post, transmit, and share content with other users, which may include, without limitation, data files, text, articles, documents, computer software or code, music, images, audiovisual works, informational materials and any user comments submitted by you and other users on or through the Service (collectively, “User Content”). For the avoidance of doubt, User Content shall not include Applications (as defined in Section 9). You retain all your ownership rights in your User Content. libimobiledevice simply displays or makes the User Content available to users of the Service and does not otherwise control the content thereof. libimobiledevice does not guarantee any accuracy or confidentiality with respect to any information contained in any User Content, and strongly recommends that you think carefully about what you transmit, submit or post to or through the Service. You understand that all information contained in User Content is the sole responsibility of the person from whom such User Content originated. This means that you, and not libimobiledevice, are entirely responsible for all User Content that you upload, post, transmit, or otherwise make available through the Service, as well as for any actions taken by libimobiledevice or other users as a result of such User Content.
 
@@ -113,25 +113,25 @@ c. Creating accounts for the purpose of selling those accounts
 
 6.8 You agree that libimobiledevice has no responsibility or liability for the deletion or failure to store any User Content and other communications maintained on or transmitted through use of the Service. You further acknowledge that you are solely responsible for securing and backing up any User Content or other communication you upload or transmit to or through the Service.
 
-7. Proprietary Rights
+1. Proprietary Rights
 
 You acknowledge and agree that libimobiledevice (or libimobiledevice’s licensors) own all legal right, title and interest in and to the Service. The visual interfaces, graphics, design, systems, methods, information, computer code, software, services, “look and feel”, organization, compilation of the content, code, data, and all other elements of the Service (collectively, the “libimobiledevice Materials”) are protected by United States copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. Except for any User Content owned and/or posted by you or other users, all libimobiledevice Materials are the copyrighted property of libimobiledevice or its licensors. Furthermore, all trademarks, service marks, and trade names contained in the libimobiledevice Materials are proprietary to libimobiledevice or its licensors. Except as expressly set forth herein, your use of the Service does not grant to you ownership of or any other rights with respect to any content, code, data, user comments or other materials that you may access on or through the Service. libimobiledevice reserves all rights to the libimobiledevice Materials not expressly granted in the Terms
 
-8. Feedback
+1. Feedback
 
 You may choose to or libimobiledevice may invite you to submit comments, bug reports, ideas or other feedback about the Service, including without limitation about how to improve the Service or any other libimobiledevice products ("Feedback"). By submitting any Feedback, you agree that libimobiledevice is free to use such Feedback at its discretion and without any additional compensation to you, and/or to disclose such Feedback to third parties on a non-confidential basis or otherwise. You hereby grant libimobiledevice a perpetual, irrevocable, nonexclusive license under all rights necessary to incorporate and use your Feedback for any purpose.
 
-9. Third-Party Store
+1. Third-Party Store
 
 9.1 libimobiledevice may make available additional applications and services offered by its third-party partners through its Store ("Application(s)"). You acknowledge that your use of Applications may be subject to additional fees. You further acknowledge that your use of any Applications may be subject to a separate agreement between you and the third party licensor of that Application ("the Application Provider"), and that libimobiledevice shall not be a party to such separate agreement between you and the Application Provider. The Application Provider of each Application, and not libimobiledevice, is solely responsible for that Application, the content therein, and any claims that you or any other party may have relating to that Application or the use of that Application. libimobiledevice does not endorse and is not responsible for the accuracy, functionality, usefulness, or intellectual property rights of or relating to such Applications. You acknowledge and agree that, notwithstanding the foregoing, libimobiledevice and its affiliates are third party beneficiaries of the agreement between you and the Application Provider for each Application, and that libimobiledevice will have the right (and will be deemed to have accepted the right) to enforce such agreement against you as a third party beneficiary thereof.
 
 9.2 By subscribing to or purchasing an Application, you grant libimobiledevice permission to share your User Content, and user information with the Application Provider as necessary in order to provide you the Application.
 
-10. Recommendations
+1. Recommendations
 
 libimobiledevice may, and you grant libimobiledevice permission to, make recommendations via the Service for products or services that in libimobiledevice’s opinion may be of interest to you based on your User Content, and/or use of the Service.
 
-11. Modification and Termination
+1. Modification and Termination
 
 11.1 libimobiledevice is constantly innovating in order to provide the best possible experience for its users. You acknowledge and agree that the form and nature of the Service may change from time to time without prior notice to you and that libimobiledevice may add new features and change any part of the Service at any time without notice.
 
@@ -143,13 +143,13 @@ libimobiledevice may, and you grant libimobiledevice permission to, make recomme
 
 11.5 Upon any termination of these Terms or your account, Sections 5, 6, 7, 8, 11.4, 11.5, 12, 13, 14, 15, 19 and 20 shall survive.
 
-12. EXCLUSION OF WARRANTIES
+1. EXCLUSION OF WARRANTIES
 
 12.1 NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT DOCKER’S WARRANTY OR LIABILITY FOR LOSSES WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW.
 
 12.2 YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK AND THAT THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, DOCKER, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS MAKE NO EXPRESS WARRANTIES AND DISCLAIM ALL IMPLIED WARRANTIES REGARDING THE SERVICE, USER CONTENT OR ANY APPLICATIONS OR EXTERNAL SITES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT CORRECTNESS, ACCURACY AND RELIABILITY. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, DOCKER, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: (A) YOUR USE OF THE SERVICE WILL MEET YOUR REQUIREMENTS, (B) YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, (C) USAGE DATA PROVIDED THROUGH THE SERVICE WILL BE ACCURATE OR (D) THE SERVICE OR ANY CONTENT, SERVICES, OR FEATURES MADE AVAILABLE ON OR THROUGH THE SERVICE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
-13. LIMITATION OF LIABILITY
+1. LIMITATION OF LIABILITY
 
 13.1 SUBJECT TO SECTION 12 ABOVE, YOU UNDERSTAND AND AGREE THAT DOCKER, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES WHICH MAY BE INCURRED BY YOU, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, INCLUDING, BUT NOT LIMITED TO, ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY), ANY LOSS OF GOODWILL OR BUSINESS REPUTATION, ANY LOSS OF DATA SUFFERED, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSS, EVEN IF DOCKER OR A DOCKER AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -157,15 +157,15 @@ libimobiledevice may, and you grant libimobiledevice permission to, make recomme
 
 13.3 YOU ACKNOWLEDGE AND AGREE THAT DOCKER HAS MADE AVAILABLE THE SERVICE AND ENTERED INTO THESE TERMS IN RELIANCE UPON THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN, THAT THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND DOCKER, AND THAT THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN YOU AND DOCKER. DOCKER WOULD NOTE BE ABLE TO PROVIDE THE SERVICE TO YOU WITHOUT THESE LIMITATIONS.
 
-14. Indemnification
+1. Indemnification
 
 You agree to hold harmless and indemnify libimobiledevice and its subsidiaries, affiliates, officers, agents, employees, advertisers, licensors, suppliers or partners from and against any third party claim arising from or in any way related to (a) your breach of the Terms, (b) your violation of applicable laws, rules or regulations in connection with the Service, or (c) your User Content, including any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature. In such case, libimobiledevice will provide you with written notice of such claim, suit or action; will provide you the opportunity to control the defense and/or settlement of such claim, suit or action; and will provide you reasonable assistance in such defense or settlement, upon reasonable request.
 
-15. User Disagreements
+1. User Disagreements
 
 You alone are responsible for your involvement and interactions with other users of the Service. libimobiledevice reserves the right, but has no obligation, to monitor disagreements between you and other users. If you have a dispute with any other users of the Service, you irrevocably and forever release libimobiledevice (and libimobiledevice’s affiliates, officers, directors, agents, subsidiaries, joint ventures and employees) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.”
 
-16. Copyright Policy
+1. Copyright Policy
 
 16.1 libimobiledevice has established the following process to respond to notices of alleged infringement that comply with the United States' Digital Millennium Copyright Act ("DMCA notices").
 
@@ -191,11 +191,11 @@ Kronprinzenstr. 119
 40217 Düsseldorf
 Germany
 
-Email: dmca@libimobiledevice.org
+Email: <dmca@libimobiledevice.org>
 
-For clarity, only DMCA notices should go to the libimobiledevice Designated Copyright Agent. Any other feedback, comments, requests for technical support or other communications should be directed to libimobiledevice customer service through support@libimobiledevice.org.
+For clarity, only DMCA notices should go to the libimobiledevice Designated Copyright Agent. Any other feedback, comments, requests for technical support or other communications should be directed to libimobiledevice customer service through <support@libimobiledevice.org>.
 
-17. External Sites
+1. External Sites
 
 17.1 The Service may include hyperlinks to other web sites or resources (collectively, “External Sites”) solely as a convenience to its users. libimobiledevice has no control over any External Sites which are provided by companies or persons other than libimobiledevice.
 
@@ -203,17 +203,17 @@ For clarity, only DMCA notices should go to the libimobiledevice Designated Copy
 
 17.3 You acknowledge and agree that libimobiledevice is not liable for any loss or damage which may be incurred as a result of the availability of the External Sites, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, the External Sites.
 
-18. Changes to the Terms
+1. Changes to the Terms
 
 libimobiledevice may make changes to the Terms from time to time. When such changes are made, libimobiledevice will make the updated Terms available on or through the Service. Please check these Terms periodically for changes. Unless otherwise agreed to between you and libimobiledevice in writing, your continued use of the Service after such changes have been published on or through the Service shall constitute your binding acceptance of such changes. Unless otherwise agreed to between you and libimobiledevice in writing, in the event that such changes materially alter your rights or obligations hereunder such amended Terms will automatically be effective upon the earlier of (i) your continued use of the Service with actual knowledge of such modifications, or (ii) 30 days from the date such modified Terms are made available on or through the Service. Notwithstanding the foregoing, the resolution of any dispute that arises between you and libimobiledevice will be governed by the Terms in effect at the time such dispute arose.
 
-19. Dispute Resolution and Arbitration
+1. Dispute Resolution and Arbitration
 
 19.1 Generally. In the interest of resolving disputes between you and libimobiledevice in the most expedient and cost effective manner, you and libimobiledevice agree that every dispute arising in connection with these Terms will be resolved by binding arbitration. Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. Our agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of these Terms, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND DOCKER ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
 
 19.2 Exceptions. Despite the provisions of Section 19.1, we both agree that nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either of us to: (a) bring an individual action in small claims court; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.
 
-19.3 Arbitrator. Any arbitration between you and libimobiledevice will be governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, "AAA Rules") of the American Arbitration Association ("AAA"), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 1-800-778-7879, or by contacting libimobiledevice.
+19.3 Arbitrator. Any arbitration between you and libimobiledevice will be governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, "AAA Rules") of the American Arbitration Association ("AAA"), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at <www.adr.org>, by calling the AAA at 1-800-778-7879, or by contacting libimobiledevice.
 
 19.4 Notice; Process. A party who intends to seek arbitration must first send a written notice of the dispute to the other, by certified mail or Federal Express (signature required), or if we do not have a physical address on file for you, by electronic mail ("Notice"). libimobiledevice’s address for Notice is: libimobiledevice, Inc., 318 Cambridge Ave, P.O. Box 61180, Palo Alto, CA 94306. The Notice must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought ("Demand"). We agree to use good faith efforts to resolve the claim directly, but if we do not reach an agreement to do so within 30 days after the Notice is received, you or libimobiledevice may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by you or libimobiledevice must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. If our dispute is finally resolved through arbitration in your favor, libimobiledevice will pay you the highest of the following: (i) the amount awarded by the arbitrator, if any; (ii) the last written settlement amount offered by libimobiledevice in settlement of the dispute prior to the arbitrator’s award; or (iii) $1,000.
 
@@ -225,7 +225,7 @@ libimobiledevice may make changes to the Terms from time to time. When such chan
 
 19.8 Enforceability. If Section 19.6 is found to be unenforceable or if the entirety of this Section 19 is found to be unenforceable, then the entirety of this Section 19 will be null and void and, in that case, the parties agree that the exclusive jurisdiction and venue described in Section 20.7 will govern any action arising out of or related to these Terms.
 
-20. General Legal Terms
+1. General Legal Terms
 
 20.1 The Terms constitute the whole legal agreement between you and libimobiledevice and govern your use of the Service (but excluding any services which libimobiledevice may provide to you under a separate written agreement) and completely replace any prior agreements between you and libimobiledevice in relation to the Service.
 
@@ -233,7 +233,7 @@ libimobiledevice may make changes to the Terms from time to time. When such chan
 
 20.3 If libimobiledevice provides you with a translation of the English language version of these Terms, the English language version of these Terms will control if there is any conflict.
 
-20.4 You agree that libimobiledevice may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Service. By providing libimobiledevice your email address, you consent to our using the email address to send you any notices required by law in lieu of communication by postal mail. You may provide us with legal notices at our postal address set forth above or via email to support@libimobiledevice.org.
+20.4 You agree that libimobiledevice may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Service. By providing libimobiledevice your email address, you consent to our using the email address to send you any notices required by law in lieu of communication by postal mail. You may provide us with legal notices at our postal address set forth above or via email to <support@libimobiledevice.org>.
 
 20.5 You agree that if libimobiledevice does not exercise or enforce any legal right or remedy which is contained in the Terms (or which libimobiledevice has the benefit of under any applicable law), this will not be deemed a waiver of any such rights or remedies, and that those rights or remedies will still be available to libimobiledevice.
 

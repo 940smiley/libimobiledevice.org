@@ -12,5 +12,5 @@ Open a command-line terminal on your machine.
 Enter the commands provided below.
 
 ```shell-session
-$ sudo apt-get install usbmuxd libimobiledevice6 libimobiledevice-utils
+sudo apt-get install usbmuxd libimobiledevice6 libimobiledevice-utils
 ```
